@@ -51,11 +51,21 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "EmberJS",
-  "React",
-  "Next.js",
-  "Node",
+  "HTML-5",
+  "CSS-3",
+  "JavaScript-ES6",
+  "TypeScript",
+  "ReactJS",
+  "React Query",
+  "Redux",
+  "NodeJs",
   "GraphQL",
-  "Material UI",
+  "EmberJS",
+  "React Testing Library",
+  "JEST",
+  "Azure",
+  "Figma Design",
+  "Power BI",
+  "MongoDB",
+  "Netlify"
 ];
