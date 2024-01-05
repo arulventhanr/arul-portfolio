@@ -5,7 +5,7 @@ export const projects = [
     Duration: "Sep 2021 - current date",
     "Domain & Client": "Banking & Standard Chartered Bank",
     location: "Chennai",
-    link: "https://reactbootcamp.com",
+    img: "hcltech",
     showOnlyMe: false,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     Duration: "March 2020 - Sep 2021",
     "Domain & Client": "HealthCare & WS Audiology",
     location: "Chennai",
-    link: "https://reactbootcamp.com",
+    img: "WNS",
     showOnlyMe: false,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     Duration: "July 2017 - March 2020",
     "Domain & Client" : "Insurance & EY GDS, Kochi",
     location: "Bangalore",
-    link: "https://reactbootcamp.com",
+    img: "ey",
     showOnlyMe: false,
   }
 ];
