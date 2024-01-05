@@ -1,36 +1,31 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    title: "Consultant",
+    company : "HCL Technologies Ltd",
+    Duration: "Sep 2021 - current date",
+    "Domain & Client": "Banking & Standard Chartered Bank",
+    location: "Chennai",
     link: "https://reactbootcamp.com",
+    showOnlyMe: false,
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    title: "Senior Program Analyst",
+    company : "WNS Global Services Pvt Ltd",
+    Duration: "March 2020 - Sep 2021",
+    "Domain & Client": "HealthCare & WS Audiology",
+    location: "Chennai",
     link: "https://reactbootcamp.com",
+    showOnlyMe: false,
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    title: "Software Engineer",
+    company : "ERNST YOUNG GDS",
+    Duration: "July 2017 - March 2020",
+    "Domain & Client" : "Insurance & EY GDS, Kochi",
+    location: "Bangalore",
     link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+    showOnlyMe: false,
+  }
 ];
 
 export const testimonials = [
