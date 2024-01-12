@@ -7,7 +7,7 @@ import Skills from "./Components/Skills";
 import Testimonials from "./Components/Testimonials";
 
 export default function App() {
-  return (<div className="text-gray-400 bg-yellow-400 body-font">
+  return (<div className="font-mono break-words text-gray-400 sm/lg:bg-gradient-to-r from-blue-300 to-grey-900 body-font">
     <Navbar />
     <About />
     <Projects />
