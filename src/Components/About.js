@@ -18,12 +18,12 @@ export default function About() {
         <div className="flex justify-center">
           <a
             href="#contact"
-            className="ml-4inline-flex text-black border-solid border-2 border-gray-900 bg-yellow-400 hover:bg-green-600 lg:py-2 lg:px-6 py-1 px-2 focus:outline-none rounded lg:text-lg">
+            className="ml-4inline-flex text-black border-solid border-2 border-gray-900 bg-green-500 hover:bg-green-300 lg:py-2 lg:px-6 py-1 px-2 focus:outline-none rounded lg:text-lg">
             Work With Me
           </a>
           <a
             href="#projects"
-            className="ml-4 inline-flex text-black border-solid border-2 border-gray-900 bg-yellow-400 hover:bg-green-600 lg:py-2 lg:px-6  py-1 px-2 focus:outline-none rounded lg:text-lg">
+            className="ml-4 inline-flex text-black border-solid border-2 border-gray-900 bg-gray-400 hover:bg-gray-600 text-white  lg:py-2 lg:px-6  py-1 px-2 focus:outline-none rounded lg:text-lg">
             Career History
           </a>
         </div>
